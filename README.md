@@ -1,5 +1,4 @@
-# Portfolio Website - Intern Studio Task 1 🚀
-
+# Portfolio Website 
 A responsive personal portfolio website showcasing my skills, projects, qualifications, and achievements. Built using HTML, CSS, and JavaScript with EmailJS integration for contact functionality.
 
 ## 🌟 Features
@@ -18,4 +17,4 @@ A responsive personal portfolio website showcasing my skills, projects, qualific
 Feel free to reach out via the contact form or connect on [LinkedIn](https://www.linkedin.com/in/jayaabirami/).
 
 ## 🔗 Live Demo
-[View Website](https://jayaabi.github.io/portfolio_website_html_css_js_internstudio_task1/)
+[View Website]
